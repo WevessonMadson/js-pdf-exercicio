@@ -67,7 +67,7 @@ function gerarRelatorio() {
     if (file == '' || file == null || file == undefined) {
         file = 'relatorio'
     }
-    doc.save('./relatorios/'+ file + '.pdf');
+    doc.save('./src/relatorios/'+ file + '.pdf');
     return console.log(`Arquivo salvo com o nome: ${file}.pdf`);
 };
 
