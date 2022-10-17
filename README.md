@@ -8,6 +8,6 @@ Criação de um CRUD com "clientes" armazenados em arquivo .json
 
 Para usar:
 
-1- Baixar arquivos do Repositório;
-2- Entrar na pasta do projeto e rodar o comando: 'npm install';
+1- Baixar arquivos do Repositório;<br>
+2- Entrar na pasta do projeto e rodar o comando: 'npm install';<br>
 3- Rodar o comando: 'npm start';
